@@ -1,0 +1,10 @@
+{
+  // Project root url
+  "base_url": "http://example.com",
+
+  // The relative path from project root to the assets
+  "assets_path": "assets",
+
+  // Set to false to use the rack server to serve your assets   
+  "static_assets": true
+}

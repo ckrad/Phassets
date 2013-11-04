@@ -1,0 +1,14 @@
+{
+  // Javascript manifest files to be compiled
+  "js_manifests": [
+    "application.js"
+  ],
+
+  // Sass files to be compiled
+  "css_manifests": [
+    "application.css"
+  ],
+
+  // Environment to be used as a last resort
+  "default_environment": "development"
+}

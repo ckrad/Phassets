@@ -1,0 +1,17 @@
+.DS_Store
+.sass-cache
+digests.json
+Gemfile.lock
+local_environment
+digests.json
+
+# -------------------------------------------
+# Ignore the following files in your project
+# -------------------------------------------
+
+# .sass-cache
+# Phassets/support/local_environment
+# Phassets/digests.json
+# Phassets/Gemfile.lock
+# assets/*
+# !assets/*/
