@@ -198,6 +198,10 @@ Author
 
 * [Mariano Cavallo][100] ([Indicius][90])
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/indicius/phassets/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 [50]: LICENSE
 [90]: http://indicius.com
 [91]: https://github.com/sstephenson/sprockets
